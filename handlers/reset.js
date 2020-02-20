@@ -8,5 +8,3 @@ function resetHandler() {
   //  user story name, copy of state
 
 }
-
-// attach handler to DOM with event listener
