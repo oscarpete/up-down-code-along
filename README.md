@@ -1,3 +1,5 @@
+# Up/Down Code-Along
+
 A simple little website where users can increase and decrease a value.  The User Interface (DOM & Styles) are provided.  You need to add user interactions one step at a time:
 
 1. __setup__: (done for you)
